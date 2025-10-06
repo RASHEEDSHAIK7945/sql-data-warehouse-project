@@ -114,7 +114,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ### ABOUT ME 
 Hi, I'm **RASHEED SHAIK**, Aspiring Data Analyst | SQL & ETL Specialist | Data Warehousing Project Portfolio | Driving Business Insights with Data | 
 Transforming raw data into actionable business intelligence. My core expertise lies in the Data Engineering and Analytics lifecycle, with strong practical skills in:
-
-**Advanced SQL**: Developing complex queries for multi-table joins and window functions.
-**Data Warehousing**: Designing and building data models for analytical reporting.
-**Project Management**: Documenting end-to-end projects and clear roadmaps using Notion.
+- **Advanced SQL**: Developing complex queries for multi-table joins and window functions.
+- **Data Warehousing**: Designing and building data models for analytical reporting.
+- **Project Management**: Documenting end-to-end projects and clear roadmaps using Notion.
