@@ -41,7 +41,7 @@ Everything is for Free!
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-- **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Get the Project Template from Notion.
+- **[Notion](https://www.notion.so/SQL-Data-Warehouse-Project-2847b4b149d480a1828cda6ad0e83ced?source=copy_link):** Get the Project Template from Notion.
 
 ---
 
@@ -112,4 +112,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 
 ### ABOUT ME 
-Hi, I'm **RASHEED SHAIK**, a passionate and detail-oriented MCA student with a strong interest in Data Engineering, Data Warehousing, and Analytics.
+Hi, I'm **RASHEED SHAIK**, Aspiring Data Analyst | SQL & ETL Specialist | Data Warehousing Project Portfolio | Driving Business Insights with Data | 
+Transforming raw data into actionable business intelligence. My core expertise lies in the Data Engineering and Analytics lifecycle, with strong practical skills in:
+**Advanced SQL**: Developing complex queries for multi-table joins and window functions.
+**Data Warehousing**: Designing and building data models for analytical reporting.
+**Project Management**: Documenting end-to-end projects and clear roadmaps using Notion.
