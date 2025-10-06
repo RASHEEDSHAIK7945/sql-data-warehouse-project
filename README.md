@@ -112,4 +112,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 
 ### ABOUT ME 
-Hi, I'm ** RASHEED SHAIK** , a passionate and detail-oriented MCA student with a strong interest in Data Engineering, Data Warehousing, and Analytics.
+Hi, I'm **RASHEED SHAIK**, a passionate and detail-oriented MCA student with a strong interest in Data Engineering, Data Warehousing, and Analytics.
